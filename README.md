@@ -1,4 +1,3 @@
-﻿# Nebula-Nook
 # Nebula-Nook
 Welcome to Nebula Nook Weather, your cosmic gateway to weather exploration! Nebula Nook offers a delightful way to stay informed about the weather, providing a seamless experience for users. With features like location selection, automatic location detection, and the flexibility to choose between Celsius and Fahrenheit, Nebula Nook Weather tailors the weather experience to your preferences. Delve into detailed weather forecasts for the upcoming 5 days and plan your activities with confidence. Nebula Nook's intuitive interface and visually enchanting design make checking the weather a celestial experience.
 
