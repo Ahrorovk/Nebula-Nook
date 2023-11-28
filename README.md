@@ -9,3 +9,5 @@ Choice of temperature units (Celsius or Fahrenheit)
 Detailed weather forecast for the next 5 days
 User-friendly and visually captivating design
 Embark on a journey through the atmospheric wonders with Nebula Nook Weather!
+
+![Weather App](-2147483648_-216091.jpg)
