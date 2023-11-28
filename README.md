@@ -18,8 +18,8 @@ Welcome to Nebula Nook Weather, your cosmic gateway to weather exploration! Nebu
 - MVI
 - Location
 <p float="left">
-<img src="-2147483648_-216091.jpg" alt="Weather App" width=300 height=600>
-<img src="-2147483648_-216093.jpg" alt="Weather App" width=300 height=600>
-<img src="-2147483648_-216095.jpg" alt="Weather App" width=300 height=600>
-<img src="-2147483648_-216097.jpg" alt="Weather App" width=300 height=600>
+<img src="images/-2147483648_-216091.jpg" alt="Weather App" width=300 height=600>
+<img src="images/-2147483648_-216093.jpg" alt="Weather App" width=300 height=600>
+<img src="images/-2147483648_-216095.jpg" alt="Weather App" width=300 height=600>
+<img src="images/-2147483648_-216097.jpg" alt="Weather App" width=300 height=600>
 </p>
