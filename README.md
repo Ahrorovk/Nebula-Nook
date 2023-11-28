@@ -8,6 +8,7 @@ Welcome to Nebula Nook Weather, your cosmic gateway to weather exploration! Nebu
 - Detailed weather forecast for the next 5 days
 - User-friendly and visually captivating design
 - Embark on a journey through the atmospheric wonders with Nebula Nook Weather!
+- Dark and Light Modes
 
 ## Technologies
 
